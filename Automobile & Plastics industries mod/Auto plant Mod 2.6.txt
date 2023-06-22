@@ -1,0 +1,127 @@
+Plastikman's Autoplant Mod 2.6 Final (I Hope)
+
+**********************
+NOTE NOTE NOTE NOTE
+**********************
+
+If You are upgrading from a previous Beta, (2.4a and earlier) Your old scenerios and old save games WILL NOT work as expected. Old save games WILL HAVE a bug where the auto parts factory will output insane amounts scrap metal for no reason at all. All old secenrarios WILL HAVE the same bug. To make Old Scenerios work right, You  have to load them in the scenerio editor, REMOVE ALL the AUTO PARTS PLANTS and replace them with NEW AUTO PARTS PLANTS (the same building). Silly, yes I know, it seems that once a building is placed on the map, the code is set to the scenario, NOT the building. Therefore The scenario will still use the old code.
+
+2.5 only lasted 2 days? I found a huge bug in it. I relesed a Beta Version of the Auto Parts Factory. It was not making ANY Scrap at all. This new version Seems very stable I have been playing it for 8 hours now and decided to update it. Just intall and play. If You are Upgrading from 2.5, unstarted scenarios are ok. If you are playing 2.5 savegames, You have nothing to worry about, Just keep playing, it is self healing. The factories will work as planed once they recive a load of plastic and a load of steel in the same month You will get scrap. 
+
+Sorry for that.
+Plastik.
+
+**********************
+NOTE NOTE NOTE NOTE
+**********************
+
+
+This Item might destroy your Locomotion install Or another Mod You are running (lol any mod can these days sheeesh...)
+
+I STRONGLY RECOMEND THAT YOU BACK UP YOUR OBJDAT FOLDER BEFORE YOU INSTALL THIS (OR ANY OTHER LARGE MOD)!!!!
+
+
+** This is a complex mod. Read everything, IF you are still confused, try the scenarios provided. **
+
+**note as of time of writing this read me, Your map must start at or after 1958 unless I have made more vehicals, or, You modify you own to work.**
+
+You neeed to select:
+
+Industries:
+
+Iron Ore Mine
+Coal Mine
+Chemical Factory USCC
+Steel Mill
+Auto Plant
+Scrap Yard
+Oil well/Derick
+Auto Parts Factory
+
+City Buildings:
+
+Auto Dealer
+Auto Dealer
+Auto Dealer Small
+
+Special Train cars:
+
+US set Auto Rack
+US set Scrap gondola
+US set grain/plastics hopper
+US Set Boxcars for auto parts
+
+
+recomended but not needed:
+
+Oil refinery
+factory USCC (do not use old factory)
+
+
+
+Items in this set:
+
+Auto.dat 	: the cars
+Autoparts.dat 	: the parts  for cars
+Plastic.dat 	: Plastic Pellets
+Scrap.dat 	: the Junk, Manufacturing leftovers, Used Cars, ETC...
+
+Autoplus.dat 	: The auto factory, needs autoparts (needs steel again as of 2.5), Makes Autos and Scrap.
+Chemwous.dat 	: Chemical plant,  Needs Oil, Makes Chemicals and plastic pellets.
+Factous.dat 	: Factory, needs Steel, Chemicals OR Plastic Pellets, Makes goods (optional, not needed to make Autos)
+Partsfact 	: the Auto parts Factory, Needs Plastic Pellets and Steel to make auto parts and scrap. (scrap added again as of 2.5)
+Scrapyrd.dat 	: Requires scrap to make steel (2 parts of scrap for one part of steel) 
+
+AUOTDEA0.DAT 	:The small auto dealer that buys the cars and gives you used ones as "scrap" (nice typo)
+AUTODEA1.DAT	:The large auto dealer that buys the cars and gives you used ones as "scrap" 
+AUTODEA2.DAT	:The large auto dealer that buys the cars and gives you used ones as "scrap" 
+* Note, the city builds and destroys auto dealers as the city grows, have fun finding them! Also, the Computer Player AI (and Yourself) Can destroy them while building in town. You can place Auto Dealers when making a scenerio. Once a city hits size 4?  (I forget the number I coded this over a year ago) it starts making auto dealers.it us coded like a park for when to start bulding both large and small.
+
+
+Item ID Numbers for this beta:
+
+Use these to make vechicals to haul the items.
+Autos  		48 (i used 17 from Fultrons Mod, changed because it is also the item for wood chips in the enhanced paper mod I dont know if 48 is used in any other mod. 17 is still autos in Fultron's mod)
+Plastic 	21 (from Fultrons Great Lakes mod)
+Scrap 		22 (from Fultrons Great Lakes mod)
+Autoparts 	47 (no idea why, it was 3am and i needed a number)
+
+Internal names for items. (for my information not Yours)
+
+name="AUTOPRTS"  47
+name="PLASTIC "  21
+name="AUTOS   "  48
+name="SCRAP   "  22
+
+Possible things to do still. Add "junked cars" from auto dealers that can be sold at a junkyard
+have the junkyard make steel and plastic pellets (more like a recycling center)
+fix the bug with the auto parts factory so it makes scarp agian. (has to be rebuilt from the ground up, I really messed the xml up) **FIXED**
+Add More new graphics
+
+
+Credits:
+uhh myself for building this and the coding along with shawn4186 that made many of the buildings, the scrapyard and the autoplant for Me. His help helped me figgure out what the hell the building XMLS do, the coding and how to replace the building graphics (LoL now that i forgot, a year later,
+ lot of good it did me...)
+Fultron for his great lakes mod that i swiped bits from (the object dats) and code samples.
+The many beta testers.. 
+Busman for the motivation to dig it up again and finnish this and some beta testing
+PennCentral for the Scenraio, This is a rework based on his western ohio fun1 map.
+
+
+
+
+Changelog...
+
+2.6 Oops.. I releseased a broken autoparts factory. Fixed (for some reason it had the right code in it but was flagged to not build. I really should change the map difficulty to "damn near impossible...."
+2.5 Fixed output on auto parts factory to make auto parts and scrap only when it recives steel and plastic. fixed graphic on autoprts.dat changed cost and weight of autos, autoprts and plastic. Removed the refit option on autos, You cant put them on a plane anymore via refit (it seemed silly puting 84 autos onto a 747). Added new train cars, Removed the old boxcars, they were bugged when hauling food. upped the gondola to hold more scrap. Made the Auto Parts plant and scrap yards "fundable industries"
+
+2.4a map fix, nothing else
+
+2.4 Auto plant no longer needs Steel.. the mod was just to hard.
+
+2.3 Actually  turned off scrap at the autoparts factory (oops)... , plastic pays less, Auto Parts Pay more and don't rot as fast.
+More Vehicals, 2 New scenerios comapatable with new US frieght set 2.0
+
+2.2 New vehicals, nothin else
+
+2.1 Huge rebuild, New factory (auto parts) lots of small tweaks
