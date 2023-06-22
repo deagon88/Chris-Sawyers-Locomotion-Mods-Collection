@@ -6,7 +6,11 @@ All mods belong to their original authors, I claim no ownership. If you do own o
 
 Useful locomotion links;
 https://www.locomotiondepot.net/ -Owens locomotion depot
+
 https://www.walter1940.de -Walters mods collection
+
 https://locomotion.abfahrtstafel.de/ -Random german site
+
 https://cache.locomotiondepot.net/index.php -Steves locomotion cache
+
 https://www.tt-forums.net/ -Scroll down for locomotion sections (a lot of the mods in this github were originally from here)
