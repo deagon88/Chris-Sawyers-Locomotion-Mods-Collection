@@ -15,3 +15,6 @@ https://locomotion.abfahrtstafel.de/ -Random german site
 https://cache.locomotiondepot.net/index.php -Steves locomotion cache
 
 https://www.tt-forums.net/ -Scroll down for locomotion sections (a lot of the mods in this github were originally from here)
+
+
+P.s. Please add to this if you can. If you have any mod i dont have here or one you know you can no longer find elsewhere online, it'd be great if you could share it again here. :)
