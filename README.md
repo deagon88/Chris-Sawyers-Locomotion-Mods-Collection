@@ -12,7 +12,7 @@ https://www.locomotiondepot.net/ -Owens locomotion depot
 
 https://www.walter1940.de -Walters mods collection
 
-https://locomotion.abfahrtstafel.de/ -Random german site
+https://locomotion.abfahrtstafel.de/ -Random german locomotion mod site
 
 https://www.wisim-welt.de/filebase/filebase/55-chris-sawyer-s-locomotion/ -More mods & tools
 
