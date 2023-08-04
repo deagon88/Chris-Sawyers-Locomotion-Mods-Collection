@@ -20,6 +20,10 @@ https://cache.locomotiondepot.net/index.php  -Steves locomotion cache
 
 https://www.tt-forums.net/ -Scroll down for locomotion sections
 
+https://pikkarail.com/locomotion/ -PikaBird's mods
+
+https://www.tt-wiki.net/wiki/Loco:Main_Page -Locomotion Wiki
+
 https://www.walter1940.de/tutorial/msts2loco/english/  -'From MSTS to Locomotion' a simple vehicle modding/conversion guide
 
 P.s. Please add to this if you can. If you have any mod i dont have here or one you know you can no longer find elsewhere online, it'd be great if you could share it again here. :)
